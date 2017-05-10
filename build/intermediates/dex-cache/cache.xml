@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/ad146d5bedffd9e8323abad44487c2df8edb39cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c74dab42788b458960618238f338d324b6f0656">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_bcc105652f96e75c023bf9309ccb308beb0521f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/6b164f057bc6a4b82a3d4f7c8684cbc0317b497c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_634b0209827a302e9df3ff520be870647ad6d0be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/fa50e215c3a77a0158a07cba0e1c615be8600cb5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_7caee15e09a285719952ac557ab21f33542334c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/65773905e4e3c01612e1f9919a8f71ecef8b3b90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="536fd6afd6e1280607c5d70306eb32d385db7964">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_9c4c724739745cdb21a972128d3a83e8e481e316.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/704821e2090ab059b8c6ef2cf189655e9d27b62a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_9fe6b3082e72311e7654ab62a01dac6877ca4c2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/2abc1b044d6f3416cc53f195398a29d5bff72e4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efae381df589f3d4977c346c8a980f030315bb8b">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_c51c4d7672e42d50cc7110c5c8fc1ed0f5e97546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/f49531d4bfb3054f4c974aff8ebbdd046f3a84c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_d7c35617ac17cf44165f6a062c03a18cbb15cb21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/5fa7ced676f694f5b570c76780700a964df02f2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_db7db5f7ad8c65a0d41c5a2f3b8f56f6e01aeaad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/19986a8f115c18b31279ad8ae64d2a199b1e5f5b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_c554a7792ffd7db278541c08de0474205d10cc0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/69836eb9dd5ba681fb46cc5b5eb5734cf253df48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3683531139103cc263b71d8b5ac6062832a8fd30">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_4d572af652d6662a5c0310f203f31ddeb1c420af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/961474c7be1f4fee284e29896d267a8d5157d33a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_de43d8cbd4ba55b67b22cdbcd578e22eb523625d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/7d27a11c25e6235622f1bc5c0f23e8b69881c22f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_bc5066aa8e08dde7cba4e7bd08f1f28d6fb19973.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/20e3ccc85c006e032038620b077f2e92016ec065/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_0ed80da527b67e9e7076d09be094110ccbb33799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/c76fa9e7e179e4863fc6da01408bdb2ebbfdb530/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_1bc5a39abf1e677955fa68749eb19d37cb3edf69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/37c0583ab07147b2613178cb358a52adc95345e8/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_6d3d64c23dfc870e10b03181559c5bbf52c83344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/a190dc100e96f3efa034e1b34d9627abf440a231/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b32372f6821e003ae24cd3389bdd7925247f100">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_a0e56c8d8afc621897e7768afab26f6eefb58a67.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/483c8b36023050044ee3397ad16811b748ec4996/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_0db67149a7e66016c68101aca75aa4d6ded650f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/Android/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_9a75692f4361f2e395c85b5e50e74e5c797024cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/b07b034071263acb19b5991ce254b2f89c371a60/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cce5792fa30ee8520620f298bf920309423b180f">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_0d888bf44e8c691519328c6edce8ee00318b9ee3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/460f164e22288a025c55ed20dd4efd96b412c7b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="888983f51cf34f57a93ff16832552f2f15937212">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_82cab33d6f2fa69bcac678e7050aa02b7b719fc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/e5433052907d0a690256793e25a6201ac2924e79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_719f513cef5bf2cad4732f33246d0d7194a07aed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/396380b0cad78d1b5b530943be35f367f9c142c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d0a843615f3b5fa3a080497709f5436696149a09">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_dbeb9237f4e82769461d166465eb6e6a48a28f0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/911f6f65679f4196a06702cf17e8af8909b56112/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3826817a4de1daa170c33bbc04db24ab6826bd5">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_7d69f70244df900fb952b042ee3b90cf0d864317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/518b42127db266702baa3ecf89f9b8222719c816/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_f4738d62debdb7b51e33cd122e98052971b88e85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/2fc0b3a832422150386217eeccb8aaab4dce8a0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_a7c0382a8d3cd9e094df68b653759bf34ad010a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/eb081a1055a46b8b341620a96da154821d13dcf6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_af09ee7fd7fdfff2bb74b5ab252576a1e23af7a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/37c0583ab07147b2613178cb358a52adc95345e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_8ad1c388440a874a2ca753e763d07fdf2a44536b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/6b1be173367e9c197f8d7a8aa1d4a80a7e9cd387/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_a5414847d954f916ecb0228934eaa4c5a54a6fbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/ddbfeb22a10ea7c4914a62920319490f5338dd23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8dfe54fbaf4f2a27d395ddf806d0c011170999e0">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_085e7cb10cf16164db0898946012649c0b99f245.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/2c103f1ba03d17ad1fb144fd4a531eccd35c7f94/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_bde3d2af5afe058227372936c2ff17e2b82f4371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/de1d1072b036c30525ff08c82837da62f4d02420/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb004ea36f8802bad30000e286c177691740a322">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_aa50874f635255d099b65aa9c72cef658674b7e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/49bbf6edd15e1041a0833e5d62ca7a544cd3e9cd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_b7f91ab19427d2785041c0e83ca151631bed10db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/53a0d968e008f953a7eb0b03a63a3ce078983e8c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_9d6e00924ba3e54a8200351bae5fe056c32c37a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/4ec3ec3df6b8903cc33d2e7888a01e776881112c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_4a54ff99d7152524d95562803ce159ce721f3754.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/33b5228ee1321ce18cfc0680d73960f54eeb5ddb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="abf7c64e0bbaaa931738856734f76646ae62d9a5">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_807a108b14d5d6eb26eab89f9cdab087d1624579.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/223388ec04cb0d915c0eec5fbcf3d3b86268a067/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_f4385d61658c06aafad16ab95630d408b3498541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/6274e11338e2205a36a1a50f21d76dce824698ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_8c8955563a872337127839cd282355e3e225e384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/e61fd2667ab5793353ab379f8b31508d2699bdea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1f9df8b2bfff203397548ee400789154968adfe8">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_cb591a3219579045270107a3d760df3f3f904da3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/cdd81ca2a60b2cd061a8fbb7770a8275ddef74c4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_d16e3d94989f9d60856e7ab0eefd0d4643223f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/728d7412a1cd6c54f8828c87715e54e374ba988d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="125bce1fb2d481b964fabf75f0949957ebe9ecd1">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_aba296f5634ddf59fc87807dd2100f38dcda1243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/761858b9f88e9b4befc03aab357170a5b2e80dd4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_8d79d872ffe32e45c01236662b38d47e1179d37c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/dd7a9137438f065e24cc728117b01ae140a3ce0c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_eac8a196f8ac499d68bdbb2c72995e255b7ed34f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/2b9dee58c9881ccd81f61eff436417df4aaa73eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="399f75732ff1ac159f9e73611536f1508bf18d3b">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_e5f783661bf1facc8afb195ded8ab7ab97dc1353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/aa825dc706545f13cb09a0d0cb5fd628aaed401d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_0b845013ebfa510ff6e413ff3170c32c9fd964f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/ccc2e47fa9c2982aead61413e40c300efa016112/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_5063e0eec46391203162f56bafe5dfbe8a27c4d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/76f9c81fd6926c9ea78670deefe02b96bd709e51/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_a8941ee441036dd17f2bc1639d48302ec22aa675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/8faebc4b3395630445de847e2dd7ca5ad301ef70/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_36c9df00a708d0d444beb7a0ac7ba30a1abfcf04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/518b42127db266702baa3ecf89f9b8222719c816/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_8afe8d6eee469eaf33bef9e3bb1bfa254bb26243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/ab0424ab2117151e7463aaf219318f10dc32b5fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25f55515117e14a658120a7b01a9ea5170409db4">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_5ca5047ef456b8745a5f4c1fbeeef797b8cfada6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/07253ca314bbd372ab61361c1c6bc40ed3e59e9d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_9722fe478d44494a0ced7ebc322ac92b0801b1ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/07f5fcdd8338ca27e3795a73116aa87ded082d3c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_35aeeaa255d2982a888413ba635a147014a2f532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/532a0cb83bd1ca867f148ec9a54dc8e43ef45419/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_ab20b1c0227709e6ef906ac1b8f1757313af210a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/fe714be33af5e8866ed905b7d66bb7354f074370/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_c79af8eda91f335accbd43635ff61cb38e6dadf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/e5f44a987283f692ae460973534c0857ff2414dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbae35d7fc3427d30bef0037bdf61ad0d8d984f8">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_f787efe7bb3d7b1deba70165b10f6d50741ee186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/ed37473a409fdc8f5d4613344ca741828e150e27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44098e691b36776973374ac03afe0225b17f8a74">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_d57b444f8463f4afc962f1330d865f5ebe8729e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/a3f9b159ec81c2331006865361cc24eca0cdcde8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_ab0593da3e2887f258c81948c348cbcdbb19f0e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parvendan/.android/build-cache/4e9858b2c94795bdf864f672e707d08039ce85dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/Users/parvendan/Downloads/Loktra/app/build/intermediates/pre-dexed/debug/classes_2ef82343be1ce1bb40e6c0746a53b765d817ea32.jar" />
+    </item>
+
+</items>
